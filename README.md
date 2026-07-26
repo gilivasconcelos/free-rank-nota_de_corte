@@ -1,4 +1,5 @@
 # RankProva Universal 📊
+Link para testar: https://free-rank-nota-de-corte.netlify.app/
 
 O **RankProva Universal** é uma aplicação web leve (SPA) desenvolvida em HTML5, Bootstrap 5 e JavaScript puro (orientado a objetos), projetada para calcular o ranking pós-prova, projetar a nota de corte estatística e aplicar regras avançadas de editais de concursos públicos do Brasil.
 
