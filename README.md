@@ -1,14 +1,14 @@
-# RankProva Universal 📊
+# Free-Rank: é um sistema Comunitário para Ranking & Nota de Corte📊
 Link para testar: https://free-rank-nota-de-corte.netlify.app/
 
-O **RankProva Universal** é uma aplicação web leve (SPA) desenvolvida em HTML5, Bootstrap 5 e JavaScript puro (orientado a objetos), projetada para calcular o ranking pós-prova, projetar a nota de corte estatística e aplicar regras avançadas de editais de concursos públicos do Brasil.
+O **Free-Rank ** é uma aplicação web leve (SPA) desenvolvida em HTML5, Bootstrap 5 e JavaScript puro (orientado a objetos), projetada para calcular o ranking pós-prova, projetar a nota de corte estatística e aplicar regras mais comuns nos editais de concursos públicos do Brasil.
 
 ## 🚀 Funcionalidades Suportadas
-- **Bancas Diversas:** Suporte para Múltipla Escolha (Vunesp, FGV, FCC, Quadrix, AOCP) e Certo/Errado com penalidade por erro (Cebraspe).
+- **Bancas Diversas:** Suporte para Múltipla Escolha (Vunesp, FGV, FCC, Cesgranrio, FGV, FCC, AOCP, etc) e Certo/Errado com penalidade por erro (Cebraspe, Quadrix etc).
 - **Ações Afirmativas e Cotas:** Ampla Concorrência, PCD, PPP (Pretos e Pardos), Indígenas (PI), Quilombolas (PQ) e Hipossuficientes (HP).
-- **Pontuação Diferenciada SP:** Cálculo automático da fórmula do Decreto Estadual de SP nº 63.979/2018.
+- **Pontuação Diferenciada usada em SP:** Cálculo automático da fórmula do Decreto Estadual de SP nº 63.979/2018.
 - **Cláusula de Barreira:** Validação automática de notas mínimas por matéria/bloco para evitar distorções no corte.
-- **Privacidade & Dados:** Exportação e importação em lote (CSV/JSON) baseadas unicamente no número de inscrição.
+- **Privacidade & Dados(LGPD):** Exportação e importação em lote (CSV/JSON) baseadas unicamente no número de inscrição.
 - **100% Client-Side:** Roda diretamente no navegador, com salvamento via LocalStorage.
 
 ## 📜 Licença
